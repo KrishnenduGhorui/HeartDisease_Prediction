@@ -1,0 +1,3 @@
+URL of app deployed - 
+
+https://prediction-disease-heart.herokuapp.com/
